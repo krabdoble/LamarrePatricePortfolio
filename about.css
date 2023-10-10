@@ -1,0 +1,49 @@
+.section1{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.div1{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(206, 181, 176);
+    border-radius: 50%;
+    z-index: -1;
+}
+.image-principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+}
+
+h1{
+    font-weight: bold;
+    font-family: "rubik dirt", sans-serif;
+    
+}
+.section1 .text0 h1{
+    display: flex;
+}
+.descrip{
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+    color: orangered;
+    font-weight: bold;
+}
+.image-hero{
+    width: 100%;
+    height: 100%;
+}
+.section2{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}

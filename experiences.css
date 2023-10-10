@@ -1,0 +1,28 @@
+
+.experience{
+    margin-top: 30px;
+    padding: 20px;
+}
+.info{
+    padding-top: 20px;
+}
+.section-title{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.section-text{
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.column1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+span{
+    margin: 5px;
+}
