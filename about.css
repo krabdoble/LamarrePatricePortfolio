@@ -12,12 +12,14 @@
     background-color: rgb(206, 181, 176);
     border-radius: 50%;
     z-index: -1;
+    
 }
 .image-principal{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -30px;
+    flex-direction: column;
+    margin-top: 0;
 }
 
 h1{
