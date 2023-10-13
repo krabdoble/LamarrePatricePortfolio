@@ -1,4 +1,7 @@
-
+/* EXPERIENCES */
+hr{
+    border: 3px solid #1b1b32;
+}
 .experience{
     margin-top: 30px;
     padding: 20px;
@@ -6,21 +9,26 @@
 .info{
     padding-top: 20px;
 }
+.title{
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+}
 .section-title{
     text-align: center;
     font-style: italic;
     font-weight: bold;
+    font-size: 2.2rem;
+    padding-bottom: 5px;
 }
 .section-text{
-    font-size: 20px;
-    padding-top: 5px;
+    font-size: 1.9rem;
+    padding-top: 10px;
+    text-align: center;
 }
-
 .column1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    text-align: center;
 }
 
 span{

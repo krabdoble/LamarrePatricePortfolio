@@ -1,9 +1,11 @@
+/* CONTACTS */
 .section4{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
     background-color: #1f1f1f;
+    width: 100%;
 }
 .text1{
     font-size: 30px;
@@ -22,6 +24,8 @@
     background-color: rgb(68, 68, 189);
     height: 250px;
     border-radius: 130px;
+    width:100%;
+   
     
 }
 .column{
@@ -38,7 +42,7 @@
     font-size: 20px;
     border: none;
 }
-button:hover{
+.column button:hover{
     background-color: brown;
     color: white;
 }
